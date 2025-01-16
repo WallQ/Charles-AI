@@ -1,4 +1,4 @@
-# INESC TEC - Institute for Systems and Computer Engineering, Technology and Science / Internship
+# INESC TEC - Institute for Systems and Computer Engineering, Technology and Science
 
 ## Getting Started
 
